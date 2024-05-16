@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"policy","Source":"./Dashboard","Dir":"Dashboard"},{"Key":"terraform","Source":"./alert_policy","Dir":"alert_policy"}]}
